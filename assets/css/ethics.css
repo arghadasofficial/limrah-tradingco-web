@@ -1,0 +1,25 @@
+#company-ethics {
+  background: #0b0b0b;
+}
+
+.ethic-card {
+  background-color: rgba(255, 255, 255, 0.04);
+  border-radius: 16px;
+  padding: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(4px);
+  transition: all 0.3s ease;
+}
+
+.ethic-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.08);
+}
+
+.ethic-icon {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+  color: #ffc107;
+}
+
+

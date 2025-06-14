@@ -1,0 +1,15 @@
+#contact {
+  background-color: #000;
+  color: #fff;
+  padding: 4rem 0;
+}
+
+#contact .btn-outline-light {
+  border-radius: 30px;
+  font-weight: 600;
+}
+
+#contact .btn-success {
+  border-radius: 30px;
+  font-weight: 600;
+}

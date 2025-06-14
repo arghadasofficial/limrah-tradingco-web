@@ -1,0 +1,21 @@
+#about {
+  background-color: #000;
+  color: #fff;
+}
+
+#about h6 {
+  color: #ffc107;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+#about hr {
+  border-top: 2px solid #ffc107;
+  width: 60px;
+}
+
+#about p {
+  color: #ddd;
+  font-size: 1rem;
+  line-height: 1.7;
+}

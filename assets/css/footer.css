@@ -1,0 +1,12 @@
+footer a {
+  color: #ccc;
+  transition: color 0.2s ease-in-out;
+}
+
+footer a:hover {
+  color: #ffc107 !important;
+}
+
+footer h6 {
+  font-size: 1.1rem;
+}
