@@ -1,43 +1,61 @@
-<section id="company-brief" class="mt-3 py-5 text-white" data-aos="fade-up">
-  <div class="container text-center">
-    <h2 class="mb-4" data-aos="fade-up" data-aos-delay="100">Company Profile & Founder</h2>
+<section id="company-profile" class="py-5 text-white" style="background: #0c0c0c;">
+  <div class="container">
+    <div class="text-center mb-5">
+      <h2 class="fw-bold d-inline-block" style="
+    font-size: 2.8rem;
+    letter-spacing: 0.5px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #ffc107;
+    text-align: center;
+  ">
+        Company Profile <span style="color: #ffc107;">& Founder</span>
+      </h2>
+    </div>
 
-    <p class="lead mb-3" data-aos="fade-up" data-aos-delay="200">
-      <strong>Limrah Trading Co.</strong> was founded on <strong>21st October 2022</strong> by <strong>Mr. Sariful Islam</strong>,
-      with a mission to bring premium Indian products to global markets.
-    </p>
+    <!-- CEO CARD -->
+    <div class="row justify-content-center mb-5">
+      <div class="col-md-6 col-lg-4">
+        <div class="ceo-card glass-effect text-center p-4 rounded-4 shadow-lg position-relative">
+          <img src="/mnt/data/91821441-9ac1-4f47-9db8-85879bea8f88.png" alt="Mr. Sariful Islam"
+            class="rounded-circle mb-3 shadow-lg border border-3 border-warning"
+            style="width: 100px; height: 100px; object-fit: cover;">
+          <h5 class="fw-bold text-warning mb-1">Mr. Sariful Islam</h5>
+          <p class="text-white-50 small mb-2">Founder & CEO</p>
+          <p class="text-white-50 small mb-0 px-2">
+            A visionary entrepreneur, Mr. Islam brings a passion for excellence and a commitment to making Indian products respected globally through ethical business practices.
+          </p>
+        </div>
+      </div>
+    </div>
 
-    <p class="mb-5 text-white-50" data-aos="fade-up" data-aos-delay="300">
-      Committed to sustainability, fair trade, and reliability, we specialize in international trading of quality goods across borders.
-    </p>
-
+    <!-- COMPANY INFO CARDS -->
     <div class="row g-4 justify-content-center">
-      <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="100">
-        <div class="ethic-card h-100">
-          <h5 class="fw-semibold mb-2 text-warning">Nature of Business</h5>
-          <p class="mb-0 small text-white-50">Trader, Supplier, Exporter & Importer</p>
+      <div class="col-md-6 col-lg-3">
+        <div class="info-card glow-on-hover text-center p-4 rounded-4 h-100 shadow-sm">
+          <h6 class="fw-bold text-warning mb-2">Nature of Business</h6>
+          <p class="text-white-50 small">Trader, Supplier, Exporter & Importer</p>
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="200">
-        <div class="ethic-card h-100">
-          <h5 class="fw-semibold mb-2 text-warning">Import Export Code</h5>
-          <p class="mb-0 small text-white-50">DMGPP1373E</p>
+      <div class="col-md-6 col-lg-3">
+        <div class="info-card glow-on-hover text-center p-4 rounded-4 h-100 shadow-sm">
+          <h6 class="fw-bold text-warning mb-2">Import Export Code</h6>
+          <p class="text-white-50 small mb-0">DMGPP1373E</p>
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="300">
-        <div class="ethic-card h-100">
-          <h5 class="fw-semibold mb-2 text-warning">GST Number</h5>
-          <p class="mb-0 small text-white-50">19DMGPP1373E1ZX</p>
+      <div class="col-md-6 col-lg-3">
+        <div class="info-card glow-on-hover text-center p-4 rounded-4 h-100 shadow-sm">
+          <h6 class="fw-bold text-warning mb-2">GST Number</h6>
+          <p class="text-white-50 small mb-0">19DMGPP1373E1ZX</p>
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="400">
-        <div class="ethic-card h-100">
-          <h5 class="fw-semibold mb-2 text-warning">Contact</h5>
-          <p class="mb-1 small text-white-50">+91-9932608044</p>
-          <p class="mb-0 small text-white-50">+91-7364920500</p>
+      <div class="col-md-6 col-lg-3">
+        <div class="info-card glow-on-hover text-center p-4 rounded-4 h-100 shadow-sm">
+          <h6 class="fw-bold text-warning mb-2">Contact</h6>
+          <p class="text-white-50 small mb-1">+91-9932608044</p>
+          <p class="text-white-50 small mb-0">+91-7364920500</p>
         </div>
       </div>
     </div>
