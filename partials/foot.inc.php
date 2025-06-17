@@ -4,7 +4,7 @@
 
             <!-- Logo & About -->
             <div class="col-md-4">
-                <img src="assets/images/logo.jpg" alt="Limrah Logo" style="height: 60px;" class="mb-3">
+                <img src="assets/images/logo2.jpg" alt="Limrah Logo" style="height: 60px;" class="mb-3">
                 <p class="text-secondary small">
                     <strong>Limrah Trading Co.</strong><br>
                     Your trusted partner in sustainable exports—bridging India to the world with quality and commitment.
