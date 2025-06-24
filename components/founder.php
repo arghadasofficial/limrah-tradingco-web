@@ -33,6 +33,14 @@
       <!-- Import Export Code -->
       <div class="col-md-6 col-lg-2">
         <div class="info-card glow-on-hover text-center p-4 rounded-4 h-100 shadow-sm">
+          <h6 class="fw-bold text-warning mb-2">FSSAI</h6>
+          <p class="text-white-50 small mb-0">12825999000482</p>
+        </div>
+      </div>
+
+      <!-- Import Export Code -->
+      <div class="col-md-6 col-lg-2">
+        <div class="info-card glow-on-hover text-center p-4 rounded-4 h-100 shadow-sm">
           <h6 class="fw-bold text-warning mb-2">Import Export Code</h6>
           <p class="text-white-50 small mb-0">DMGPP1373E</p>
         </div>

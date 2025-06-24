@@ -51,7 +51,8 @@
   height: 100%;
   border: none;
   display: block;
-  filter: grayscale(100%) invert(90%) contrast(85%);
+  /* Removed or commented out the filter below to remove the dark style */
+  /* filter: grayscale(100%) invert(90%) contrast(85%); */
 }
 
 /* Responsive Tweaks */

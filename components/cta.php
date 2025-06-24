@@ -4,6 +4,9 @@
         <p class="lead mb-4">Reach out today for product inquiries, trade partnerships, or quick support.</p>
 
         <div class="d-flex flex-column flex-md-row justify-content-center gap-3">
+            <a href="mailto:support@limrahtrading.com" class="btn btn-outline-light">
+                📧 Reach Us
+            </a>
             <a href="mailto:limrahtradingco@gmail.com" class="btn btn-outline-light">
                 📧 Email Us
             </a>

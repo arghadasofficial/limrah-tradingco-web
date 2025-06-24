@@ -36,6 +36,10 @@
                     <span class="text-secondary">limrahtradingco@gmail.com</span>
                 </p>
                 <p class="small mb-2">
+                    <i class="fas fa-envelope me-2 text-warning"></i>
+                    <span class="text-secondary">support@limrahtrading.com</span>
+                </p>
+                <p class="small mb-2">
                     <i class="fas fa-map-marker-alt me-2 text-warning"></i>
                     <span class="text-secondary">Mill Chowpathi, Gopal Bagan, Alipurduar, WB 735213</span>
                 </p>

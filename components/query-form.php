@@ -3,7 +3,6 @@
     <h2 class="text-center mb-5">Send Us a Query</h2>
     <div class="row g-5 align-items-stretch">
 
-      <!-- Form Column -->
       <div class="col-lg-6 d-flex">
         <form id="queryForm" class="w-100">
           <div class="row g-3">
@@ -29,12 +28,11 @@
         </form>
       </div>
 
-      <!-- Map Column -->
       <div class="col-lg-6 d-flex">
         <div class="map-wrapper w-100">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3664.1496551810624!2d89.52713671444072!3d26.498680583302526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e258fdc2bc7a3f%3A0x4f5e40fc1161de3a!2sMill%20Chowpathi%2C%20Gopal%20Bagan%2C%20Alipurduar%2C%20West%20Bengal%20735213!5e0!3m2!1sen!2sin!4v1718101797323!5m2!1sen!2sin"
-            loading="lazy" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade">
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3564.9004861475746!2d89.21010527521608!3d26.6836649767844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e3bb1d477809ad%3A0x6574adefd677ccd1!2sLIMRAH%20TRADING%20CO.!5e0!3m2!1sen!2sin!4v1750750687111!5m2!1sen!2sin"
+            width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
           </iframe>
         </div>
       </div>
