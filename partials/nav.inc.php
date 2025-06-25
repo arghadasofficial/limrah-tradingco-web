@@ -3,7 +3,7 @@
 
     <div class="d-flex align-items-center">
       <a class="navbar-brand fw-bold text-white" href="index.php">
-        <img src="assets/images/limrah.png" alt="Limrah Logo" style="height: 42px;">
+        <img src="assets/images/logo.png" alt="Limrah Logo" style="height: 42px;">
       </a>
       <span class="ms-2 text-light small fw-light d-none d-md-block">Sourcing India’s Best for the World</span>
     </div>
